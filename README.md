@@ -1,1 +1,1 @@
-# zero_day
+smaller logo ![Alt][1]
